@@ -1,0 +1,6 @@
+THis the demo file in which we will create some content
+Step 0: Setup permissions for your collaborator
+Step 1: Collaborator clones the Owner repository
+Step 2: Collaborator Edits the README file
+Step 3: Collaborator commits and pushes the file to GitHub
+Step 4: Owner pulls the changes that the Collaborator made
